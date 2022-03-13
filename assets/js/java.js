@@ -129,7 +129,7 @@ function getTime (date) {
 // Sun Feb 20 2022 13:59:17 GMT+0700 (Giờ Đông Dương) {}
 
 setInterval (function () {
-    getTime("Sun Feb 30 2022 13:59:17 GMT+0700 (Giờ Đông Dương)");
+    getTime("Sun Apr 30 2022 13:59:17 GMT+0700 (Giờ Đông Dương)");
 }, 1000);
 
 // slider
